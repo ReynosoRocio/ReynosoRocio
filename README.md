@@ -8,9 +8,9 @@ Ingeriera en computación en proceso, apasionada por los desafíos y aprender nu
 
 *   🌍  I'm based in M
 *   ✉️  You can contact me at [rocioreynosoram@gmail.com](mailto:rocioreynosoram@gmail.com)
-*   🧠  I'm learning s
-*   🤝  I'm open to collaborating on P
-*   ⚡  M### Skills 
+*   🧠  I'm learning Typescript, Angular and Spring
+*   🤝  I'm open to collaborating on Java, Spring
+*   ⚡  I have Analytical Skills, Responsive Design Skills, Code versioning skills, basic of the BackEnd, HTML/CSS skills, Accepting Feedback, Time Management
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>

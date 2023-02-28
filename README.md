@@ -6,7 +6,7 @@ Desarrollador web
 
 Ingeriera en computación en proceso, apasionada por los desafíos y aprender nuevas tecnologías.
 
-*   🌍  I'm based in M
+*   🌍  I'm based in México
 *   ✉️  You can contact me at [rocioreynosoram@gmail.com](mailto:rocioreynosoram@gmail.com)
 *   🧠  I'm learning Typescript, Angular and Spring
 *   🤝  I'm open to collaborating on Java, Spring
